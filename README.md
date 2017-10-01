@@ -1,5 +1,5 @@
 # btdevelopment-website
-My freelance website
+Brent Tunnicliff's freelance website
 
 
 
